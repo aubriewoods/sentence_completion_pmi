@@ -17,7 +17,9 @@ Woods, Aubrie M. "Exploiting Linguistic Features for Sentence Completion." In Th
 ```
 
 For demonstration purposes, all files contain only the information needed to operate on a small subset of the Microsoft Research Sentence
-Completion Challenge; specifically, the first ten questions from the test set.  Note that the code is compatible with Python 2.7.13.
+Completion Challenge; specifically, the first ten questions from the test set.  
+
+Note that the code is compatible with Python 2.7.13.
 
 
 ## Running the code
